@@ -1,2 +1,2 @@
 # poker
-Poker traning 
+Poker training 
